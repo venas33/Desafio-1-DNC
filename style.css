@@ -1,0 +1,188 @@
+body {
+    margin: 0 auto;
+    width: 100%;
+
+  }
+
+.titulos {
+    background-color:  #303030;
+    height: 300px;
+    color: white;
+    font-family: "Inter", sans-serif;
+    
+    
+    
+    
+   
+    
+
+}
+#titulo{
+    margin: 0px;
+    padding-top: 100px;
+    margin-left: 62px;
+    font-family: "Inter", sans-serif;
+    font-size: 40px;
+    
+    
+    
+    
+ 
+    
+
+    
+}
+
+#subtitulo{
+    margin-left: 62px;
+    margin-top: 20px;
+    font-family: "Inter", sans-serif;
+    
+}
+
+#tx{
+    color: #000000;
+    font-family: "Inter", sans-serif;
+    margin: auto;
+    
+    
+}
+
+
+
+.segundaparte {
+   background: #F9F9F9;
+   height: 130px;
+    cursor: pointer;
+    color: #373535 !important;
+    font-size: 18px;
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+    
+   
+   
+   
+}
+
+#historico {
+    display: inline-block;
+    margin-left: 50px;
+    position: relative;
+    margin-top: 40px;
+}
+
+.imagem {
+    display: flex;
+    float: inline-end;
+   padding-top: 100px;
+    padding-right: 75px;
+    width: 510px;
+    height: 605px;
+    
+    
+    
+    
+}
+
+#texto{
+    padding-left: 90px;
+    padding-top: 300px;
+    font-family: "Inter", sans-serif;
+    font-size: 24px;
+}
+
+#texto1{
+    padding-right: 50px;
+
+}
+
+#subtitulo1{ 
+    color: #1c1b1b;
+    padding-top: 20px;
+    padding-right: 50px;
+    
+}
+
+#formulario {
+    color: white;
+    font-family: "Inter", sans-serif;
+    text-align: center;
+    
+   
+}
+
+
+.container_form {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 50px;
+    background:#303030; 
+    border-radius:10px; 
+    margin-top: 250px;
+    
+}
+
+
+.form_grupo {
+    width: 508px;
+    height: 72px;
+    margin-top: 40px;
+    font-family: "Raleway", sans-serif;
+    font-size: 24px;
+    margin-left: 70px;
+    
+   
+}
+
+
+
+.submit_btn {
+    margin-top: 58px;
+    margin-left: 139px;
+   padding: 20px;
+    border: none;
+    background-color: #C07212;
+    color: #ffffff;
+    font-family: "Raleway", sans-serif;
+    font-size: 24px;
+    font-weight: 550;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: all 0.3s;
+    width: 286px;
+    height: 74px;
+    
+}
+
+.submit_btn:hover {
+
+    background-color: #444444;
+    transform: scale(1.03);
+
+}
+
+
+.form_input {
+    
+    font-size:  24px;
+    font-family: "Raleway", sans-serif;
+    padding: 8px 10px;
+    border-radius: 10px;
+    border: 10px #ffffff solid;
+    background: #fdfdfd;
+    outline: none;
+    transition: all 0.3s;
+    width: 80%;
+    font-weight: 550;
+
+}
+
+
+
+
+
+
